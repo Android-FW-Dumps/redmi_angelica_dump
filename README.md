@@ -1,0 +1,14 @@
+# angelica-user 10 QP1A.190711.020 V12.0.16.0.QCRMIXM release-keys
+- manufacturer: xiaomi
+- platform: mt6765
+- codename: angelica
+- flavor: angelica-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: V12.0.16.0.QCRMIXM
+- tags: release-keys
+- fingerprint: Redmi/angelica_global/angelica:10/QP1A.190711.020/V12.0.16.0.QCRMIXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: angelica-user-10-QP1A.190711.020-V12.0.16.0.QCRMIXM-release-keys
+- repo: redmi_angelica_dump
